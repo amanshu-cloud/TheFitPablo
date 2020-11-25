@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "898157640709",
+    "firebase_url": "https://thefitpablo.firebaseio.com",
+    "project_id": "thefitpablo",
+    "storage_bucket": "thefitpablo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:898157640709:android:ac6ede16f5909a2dc0306c",
+        "android_client_info": {
+          "package_name": "com.example.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "898157640709-93p0msmncnl21hgkhacuho5o03hbakj6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.app",
+            "certificate_hash": "3ee4fa13585e9c275208f9df8b466446c748ec00"
+          }
+        },
+        {
+          "client_id": "898157640709-n6cvddhdicmh77eio08dhgjgqe4i0mq6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAO58lMP_tzgx-9HM71aiTddCgj28-9lls"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "898157640709-n6cvddhdicmh77eio08dhgjgqe4i0mq6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
