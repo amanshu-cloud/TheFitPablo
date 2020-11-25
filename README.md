@@ -1,6 +1,6 @@
-# app
+# The Fit Pablo
 
-A new Flutter project.
+A new Fitness Flutter project.
 
 ## Getting Started
 
